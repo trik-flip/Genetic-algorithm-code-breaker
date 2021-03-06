@@ -11,3 +11,7 @@ That is about 772_289 times faster ;p
 
 The wordlist used comes from [opentaal.nl](https://www.opentaal.org) although it heavily stripped down  
 the string used in the POC originates from [wikipedia](https://nl.wikipedia.org/wiki/Biologie) 
+
+To use/ test -> run `Genetic-algorithm-code-breaker.py`
+
+This will prompt for the use of the brute force methode[b] or the genetic algorithm[g].
